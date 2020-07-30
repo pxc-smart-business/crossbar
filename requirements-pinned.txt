@@ -37,7 +37,7 @@ pyOpenSSL==17.5.0
 PyQRCode==1.2.1
 PyTrie==0.3
 PyYAML==3.12
-requests==2.18.4
+requests==2.20.0
 sdnotify==0.3.2
 service-identity==17.0.0
 setproctitle==1.1.10
